@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Arti13x
+- 👋 Hi, I’m Arti
 - 👀 I’m interested in Game Creation
 - 🌱 I’m currently learning how to create my own games
 - 😄 Pronouns: they/them
